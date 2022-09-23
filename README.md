@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @wromoapp
 
+by Studio Wromo Marketplace
+I.G.
+
 README.md
 <!---
-wromoapp/wromoapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+wromoapp/wromoapp✨ special ✨ repository 
 --->
